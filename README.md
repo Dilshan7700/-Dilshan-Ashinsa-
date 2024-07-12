@@ -4,7 +4,65 @@
 
 <br>
 
-🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
+🔮 `The main goal of **2:Thanks to excel owner of izuku md**
+
+## ⚖️  *MALIK-MD - DEVELOPER TEAM* *2024*  ⚖️
+
+<div align="left">
+  <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/arkhan998.png" width="200" height="200" alt="Ash"/></a>
+  
+| [ATA-UR-REHMAN](https://github.com/arkhan998) |
+| Owner, Developer, Maintainer, updates|
+
+---
+<a href="[https://github.com/naveeddogar.png]"><img src="https://github.com/naveeddogar.png" width="200" height="200" alt="Ash"/></a>
+ </div>
+<br>
+<h4 align="left">
+  
+| [NAVEED DOGAR ](https://github.com/naveeddogar) |
+| CO.Devloper, Fixer, Scripts maker|
+
+---
+<a href="[https://github.com/abdulghhani.png]"><img src="https://github.com/abdulghhani.png" width="200" height="200" alt="Ash"/></a>
+ </div>
+<br>
+<h4 align="left">
+  
+| [ABDUL-GHHANI](https://github.com/abdulghhani) |
+| CO.Devloper, Fixer|
+
+
+<p align="left">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+
+
+</br>
+
+***MALIK-MD NEW UPDATE COMMING SOON....***
+><img src="https://github.com/abdulghhani.png" width="200" height="200" alt="Ash"/></a>
+ </div>
+<br>
+<h4 align="left">
+  
+| [ABDUL-GHHANI](https://github.com/abdulghhani) |
+| CO.Devloper, Fixer|
+
+
+<p align="left">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+
+
+</br>
+
+***MALIK-MD NEW UPDATE COMMING SOON....***
+ this bot is to fully leverage WhatsApp and simplify its functionality.`
 
 <br>
  
